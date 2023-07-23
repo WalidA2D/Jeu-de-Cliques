@@ -95,36 +95,36 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: '#f5f5f5', // Couleur de fond
+    backgroundColor: '#f5f5f5',
   },
   title: {
     fontSize: 24,
     fontWeight: 'bold',
     marginBottom: 20,
-    color: '#333', // Couleur du texte
+    color: '#333',
   },
   finalScore: {
     fontSize: 18,
     marginBottom: 20,
-    color: '#333', // Couleur du texte
+    color: '#333',
   },
   counter: {
     fontSize: 18,
     marginBottom: 10,
-    color: '#333', // Couleur du texte
+    color: '#333',
   },
   remainingTime: {
     fontSize: 18,
-    color: '#333', // Couleur du texte
+    color: '#333',
   },
   button: {
     alignItems: 'center',
-    backgroundColor: '#3498db', // Couleur du bouton
+    backgroundColor: '#3498db',
     padding: 10,
-    borderRadius: 5, // Pour rendre le bouton arrondi
+    borderRadius: 5,
   },
   buttonText: {
-    color: '#fff', // Couleur du texte du bouton
+    color: '#fff',
     fontSize: 16,
   },
 });
